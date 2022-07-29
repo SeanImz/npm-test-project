@@ -1,0 +1,27 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanImz/npm-test-project.git"
+  },
+  "author": "Sean Evans, Mudskipper_dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanImz/npm-test-project/issues"
+  },
+  "homepage": "https://github.com/SeanImz/npm-test-project#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
